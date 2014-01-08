@@ -1,0 +1,303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Organi",
+				"organisationType"
+			],
+			[
+				"inp",
+				"input_field"
+			],
+			[
+				"organia",
+				"organisatorType"
+			],
+			[
+				"setc",
+				"setblocking  (function)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 232.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 259.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"http://repo.archlinux.fr/"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kuchkade/.sshfs/wi/list.php",
+		"/home/kuchkade/.sshfs/wi/override.css",
+		"/home/kuchkade/.sshfs/wi/control.php",
+		"/home/kuchkade/.sshfs/wi/template/main.thtml",
+		"/home/kuchkade/.sshfs/wi/configure.php",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/assets/javascripts/events.js.coffee",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/events/_editAppointment.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/events/_form.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/Gemfile",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/assets/javascripts/application.js",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/public/templates/timepicker.html.haml",
+		"/home/kuchkade/Dokumente/Projekte/ClimbMax/app/partials/events/edit/event.html",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/config/routes.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/spec/controllers/events_controller_spec.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/events/_newAppointment.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/layouts/application.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/controllers/events_controller.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/events/new.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/config/initializers/simple_form_bootstrap.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/organisator.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/area.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/event.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/events/index.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/event_handler.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/assets/stylesheets/scaffolds.css.scss",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/config/initializers/remove-this-sf_bs3_inputs.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/eventHandler.rb",
+		"/home/kuchkade/Dokumente/Projekte/ClimbMax/app/js/database/prototypes.js",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/dav.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/organisation.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/course.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/personal.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/appointment.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/personals/index.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/models/person.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/personals/show.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/personals/_form.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/assets/javascripts/personals.js.coffee",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/areas/index.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/prices/index.html.haml",
+		"/home/kuchkade/Dokumente/rails/myapp/app/views/routes/index.html.erb",
+		"/home/kuchkade/Dokumente/rails/myapp/app/views/routes/_route.html.erb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/personals/index.json.jbuilder",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/public/robots.txt",
+		"/home/kuchkade/.wine/dosdevices/z:/home/kuchkade/Dokumente/Projekte/ClimbMax/app/partials/events/edit/event.html",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/Gemfile.lock",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/personals/show.json.jbuilder",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/config/initializers/bson_objId_to_str.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/config/initializers/bson_id_to_json.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/config/initializers/wrap_parameters.rb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/assets/javascripts/home.js.coffee",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/home/index.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/layouts/_navigation.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/layouts/_navigation_links.html.haml",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/app/views/layouts/application.html.erb",
+		"/home/kuchkade/Dokumente/rails/composer/iClimb/config/environments/production.rb",
+		"/home/kuchkade/Dokumente/rails/iClimb/app/views/layouts/application.html.erb",
+		"/home/kuchkade/Dokumente/rails/iClimb/app/assets/javascripts/application.js",
+		"/home/kuchkade/Dokumente/rails/iClimb/Gemfile",
+		"/home/kuchkade/Dokumente/rails/iclimb/config/environments/development.rb",
+		"/home/kuchkade/Dokumente/rails/iclimb/config/application.rb",
+		"/home/kuchkade/Dropbox/Uni/2013-WS/SensorenAktoren/Versuchsprotokoll V1/dokument.tex",
+		"/home/kuchkade/Dropbox/Uni/J-Unit/Sensoren und Aktoren/01_Schalterprellung/CODESCHALTER.c",
+		"/home/kuchkade/Dropbox/Uni/2013-SS/Mircrocontroller/Versuchsprotokoll 5+6/dokument.tex",
+		"/home/kuchkade/Dropbox/Uni/2013-SS/Mircrocontroller/Versuchsprotokoll 5+6/inhalt.tex",
+		"/usr/share/doc/cvs2svn/examples/cvs2git-example.options",
+		"/home/kuchkade/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/kuchkade/.config/sublime-text-3/Packages/User/LaTeXTools Preferences.sublime-settings",
+		"/home/kuchkade/.polulu/libpololu-avr/examples/atmega328p/3pi-linefollower-pid/test.c",
+		"/home/kuchkade/Dokumente/rails/iclimb/Gemfile",
+		"/home/kuchkade/Dokumente/Softwarelösungen/git-tmp/cvs2git-example.options",
+		"/home/kuchkade/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/home/kuchkade/Dokumente/rails/iclimb/config/mongoid.yml",
+		"/srv/web/backup.html",
+		"/home/kuchkade/Dropbox/Uni/2013-WS/Projekt/server/server.py",
+		"/home/kuchkade/Dropbox/Uni/2013-WS/Projekt/Anforderungsbeschreibung.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"echo",
+			"\"",
+			"  		",
+			"\"",
+			"input-group-addon",
+			"personal_url",
+			".load",
+			"mongoid.load",
+			"mongoid-load",
+			"restart"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\"",
+			"$contentMain .= ",
+			"\\\"",
+			"input-group-addon input-group-label",
+			"input-group-label"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "iClimb.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
