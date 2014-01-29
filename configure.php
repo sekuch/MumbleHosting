@@ -1,5 +1,4 @@
 
-
 <?php
 
 #
@@ -8,14 +7,11 @@
 # in this directory
 #
 
-if (!isset($_SERVER['PHP_AUTH_USER'])) {
+if (!isset($_SERVER['PHP_AUTH_USER']) || $_SERVER['PHP_AUTH_USER'] != "test" || $_SERVER['PHP_AUTH_PW'] != "test") {
     header('WWW-Authenticate: Basic realm="MumbleHost"');
     header('HTTP/1.0 401 Unauthorized');
     echo 'Invalid User!';
     exit;
-} else {
-    if($_SERVER['PHP_AUTH_USER'] != "test" && $_SERVER['PHP_AUTH_PW'] != "test")
-      exit;
 }
 
 $id = $_GET['id'];
