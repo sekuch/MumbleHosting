@@ -34,7 +34,7 @@ if (Ice_intversion() >= 30400) {
 
 
 	$inputs .= "<div class=\"input-group\">";
-	$inputs .= "<span class=\"input-group-addon\">Titel</span>";
+	$inputs .= "<span class=\"input-group-addon\" width='150px'>Titel</span>";
 	$inputs .= "<input type=\"text\" class=\"form-control\" name=\"config[registername]\" value=\"".$name."\"/>";
 	$inputs .= "</div>";
 
@@ -45,7 +45,7 @@ if (Ice_intversion() >= 30400) {
 	$inputs .= "</div>";
 
 	$inputs .= "<div class=\"input-group\">";
-	$inputs .= "<span class=\"input-group-addon\">Server Passwort</span>";
+	$inputs .= "<span class=\"input-group-addon\" width='150px'>Server Passwort</span>";
 	$inputs .= "<input type=\"text\" class=\"form-control\" name=\"config[serverpassword]\" value=\"".$name."\"/>";
 	$inputs .= "</div>";
 

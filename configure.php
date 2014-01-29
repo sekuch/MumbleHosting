@@ -47,12 +47,12 @@ try {
 
 
   $inputs.= "<div class=\"input-group\">";
-  $inputs .= "<span class=\"input-group-addon\">Titel</span>";
-  $inputs .= "<input type=\"text\" class=\"form-control\" name=\"config[registername]\" value=\"".$name."\" width='150px'/>";
+  $inputs .= "<span class=\"input-group-addon\" width='150px'>Titel</span>";
+  $inputs .= "<input type=\"text\" class=\"form-control\" name=\"config[registername]\" value=\"".$name."\"/>";
   $inputs .= "</div>";
 
   $inputs .= "<div class=\"input-group\">";
-  $inputs .= "<span class=\"input-group-addon\">Server Passwort</span>";
+  $inputs .= "<span class=\"input-group-addon\" width='150px'>Server Passwort</span>";
   $inputs .= "<input type=\"text\" class=\"form-control\" name=\"config[serverpassword]\" value=\"\"/>";
   $inputs .= "</div>";
 
